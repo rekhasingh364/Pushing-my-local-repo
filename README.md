@@ -7,7 +7,7 @@ https://github.com/rekhasingh364/Pushing-my-local-repo.git
  *Is this text in italic*
 * Rekha :shipit:
 * Arvind :laughing:
-* Anand :simple_smile:
+* Anand :bowtie:
 * Akhilesh :wink:
 * Reena :innocent:
 
