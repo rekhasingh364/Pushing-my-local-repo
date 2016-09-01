@@ -4,7 +4,7 @@ https://github.com/rekhasingh364/Pushing-my-local-repo.git
 
 ###This is how you create an unordered list in an .md file :)
 
-    Rekha is ~~stupid~~ beautiful
+    *Is this text in italic*
     
     * Arvind
     * Anand
